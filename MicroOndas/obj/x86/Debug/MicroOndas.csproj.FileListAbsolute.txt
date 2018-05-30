@@ -1,0 +1,26 @@
+c:\users\administrador.redemw\documents\visual studio 2010\Projects\MicroOndas\MicroOndas\bin\Debug\MicroOndas.exe
+c:\users\administrador.redemw\documents\visual studio 2010\Projects\MicroOndas\MicroOndas\bin\Debug\MicroOndas.pdb
+c:\users\administrador.redemw\documents\visual studio 2010\Projects\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.Form1.resources
+c:\users\administrador.redemw\documents\visual studio 2010\Projects\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.Properties.Resources.resources
+c:\users\administrador.redemw\documents\visual studio 2010\Projects\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.csproj.GenerateResource.Cache
+c:\users\administrador.redemw\documents\visual studio 2010\Projects\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.exe
+c:\users\administrador.redemw\documents\visual studio 2010\Projects\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.pdb
+C:\Users\administrador.REDEMW\Documents\Visual Studio 2010\Projects\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.csprojResolveAssemblyReference.cache
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\bin\Debug\MicroOndas.exe
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\bin\Debug\MicroOndas.pdb
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.csprojAssemblyReference.cache
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.Form1.resources
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.Properties.Resources.resources
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.csproj.GenerateResource.cache
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.exe
+C:\Users\jorda\Desktop\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.pdb
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.csprojAssemblyReference.cache
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.Form1.resources
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.Properties.Resources.resources
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.csproj.GenerateResource.cache
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.csproj.CoreCompileInputs.cache
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.exe
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\obj\x86\Debug\MicroOndas.pdb
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\bin\Debug\MicroOndas.exe
+C:\MV_CWB\UDC\C#\MicroOndas\MicroOndas\MicroOndas\bin\Debug\MicroOndas.pdb
